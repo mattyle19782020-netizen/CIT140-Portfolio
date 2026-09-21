@@ -48,3 +48,9 @@ slips into the problem statement is the most likely way to lose points.
 | 3 | Elias | Engineering | [ ] |
 | 4 | Mara | Operations call | [ ] |
 | 5 | QA review | | [ ] |
+
+## Submission record
+
+- Receipt code: CIT140-W01-PROBLEM-MUBATOMV-IU5OW (generated 9/21/2026, 6:46:29 AM)
+- PDF link: https://github.com/mattyle19782020-netizen/CIT140-Portfolio/blob/main/Week01_Something_Isnt_Adding_Up/artifact/Le_Matthew_CIT140_Week01_Problem_Brief.pdf
+- Instructor access: pending collaborator invite to Dr. Stalbert
