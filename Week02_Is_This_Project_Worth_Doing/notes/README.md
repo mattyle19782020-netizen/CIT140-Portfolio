@@ -48,3 +48,11 @@ Week 1 left the source of TEST_K44_START an open question.
 | W02-S03 | Proposed scope and current workflow | [ ] |
 | W02-S04 | Capacity, access and operating limits | [ ] |
 | W02-S05 | Estimate and success-measure sheet | [ ] |
+
+## Submission record
+
+- Recommendation: REVISE (capped authorization, conditions on export access and excluded costs)
+- Receipt code: CIT140-W02-348908E9A794 (Revision 20)
+- PDF permalink: https://github.com/mattyle19782020-netizen/CIT140-Portfolio/blob/3d1cce4f51f7617dec6ac5ca31f02fa9578320a9/Week02_Is_This_Project_Worth_Doing/artifact/Le_Matthew_CIT140_Week02_Business_Case.pdf
+- Commits: 21c4e9e (PDF + JSON), 3d1cce4 (repository check screenshot)
+- Note: editing the report invalidates the receipt and requires a new PDF, push and receipt.
