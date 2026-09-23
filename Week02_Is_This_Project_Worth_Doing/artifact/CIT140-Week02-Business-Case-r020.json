@@ -1,0 +1,129 @@
+{
+  "format": "command-nexus-weekly-report",
+  "schemaVersion": 1,
+  "courseId": "CIT140",
+  "week": 2,
+  "assignmentId": "CIT140-W02-BUSINESS-CASE",
+  "artifactType": "business-case-recommendation",
+  "caseId": "meridian-forge",
+  "reportId": "0f785ec4-f2c3-4605-9392-a5f40774927c",
+  "revision": 20,
+  "createdAt": "2026-09-23T04:17:20.794Z",
+  "exportedAt": "2026-09-23T05:36:05.493Z",
+  "learnerLabel": "Business Case Recommendation: QA Control Review, Meridian Forge affected QA cell",
+  "contentStatus": "complete-fields",
+  "sections": [
+    {
+      "id": "project",
+      "title": "Proposed project",
+      "value": "A bounded QA Control Review of the one affected QA cell, producing three documents: a command-ownership record, an inventory of the controls used to schedule and retire that cell's tests, and an evidence-preservation checklist (W02-S03). It is a documentation and review exercise, not a repair order. It does not restart or operate MR-17, change software or schedules, alter original records, buy a replacement robot, select a vendor, or extend to other cells."
+    },
+    {
+      "id": "need",
+      "title": "Business need",
+      "value": "Meridian Forge cannot currently say who owns command authorization for the affected cell, how retired tests stay controlled, or how evidence is preserved for later decisions (W02-S01). The retrieval record shows the gap concretely: of six requests made during the initial assessment, only two returned both an identified custodian and a clear link to the original source, and four required follow-up to establish one or both (W02-S02). Those six requests took 60 staff minutes in total, an average of ten minutes each.\n\nThose are measured retrieval records for this one cell. They are not robot downtime, lost sales or company-wide production losses, and no measured estimate exists of what a later change would save (W02-S02). The need is therefore stated as a traceability gap that is visible in the records, not as a promised saving. Mara Ilyan's stated expected value is a traceable record QA and Engineering can investigate from and a defensible basis for Operations to request later work, and she states explicitly that a completed review is not a promise of restored production (W02-S01)."
+    },
+    {
+      "id": "value",
+      "title": "Expected value and beneficiaries",
+      "value": "Asked what the review would improve, Mara Ilyan said QA and Engineering need records they can trace and Operations needs a sound reason to request later work, and that this is useful even before the technical cause is known. She repeated the limit stated in W02-S01: she cannot promise the review will return the robot to production. The claimed value is traceable evidence and a defensible basis for later requests, not restored output, and no figure was attached to either benefit."
+    },
+    {
+      "id": "scopeIn",
+      "title": "Included work",
+      "value": "Included: review command-authorization ownership for the affected cell, inventory the controls used to schedule and retire its tests, document an evidence-preservation checklist, and identify gaps and hand off a report for later decisions. Three deliverables: a command-ownership record, a scheduling and retirement control inventory, and an evidence-preservation checklist, with unknown owners and missing evidence recorded explicitly rather than filled in with guesses (W02-S03).\n\nExcluded: restarting or operating MR-17, changing software or schedules, deleting or modifying original records, buying a replacement robot, selecting a vendor, and extending the review to other cells (W02-S03). The review also does not authorize spending; neither the request nor this recommendation approves work or expenditure (W02-S01)."
+    },
+    {
+      "id": "scopeOut",
+      "title": "Excluded work",
+      "value": "The review does not authorize restarting or operating MR-17, changing software or schedules, deleting or modifying original records, buying a replacement robot, selecting a vendor, or extending the work to other cells (W02-S03). It does not authorize spending either: Mara Ilyan stated that neither her request nor this recommendation approves work or expenditure (W02-S01). All work stays outside the safety glass, uses read-only copies and preserves the original records, and missing access is recorded rather than worked around (W02-S04). The output is three documents for the affected QA cell, not a repair and not a return to production."
+    },
+    {
+      "id": "technical",
+      "title": "Technical feasibility",
+      "value": "The review can run on read-only record exports and the existing documentation tools, so no new system or purchase is needed (W02-S04). The access condition is that those exports have been requested but not confirmed. W02-S04 states that if access is denied, the team must revise the work or defer it, which makes confirmed read-only export access a precondition rather than a detail. The deliverables are three documents, so the technical demand is on retrieving and reading records, not on changing them; original records stay preserved and only read-only copies are used."
+    },
+    {
+      "id": "operational",
+      "title": "Operational feasibility",
+      "value": "The work uses the existing workflow rather than replacing it: QA requests a record, the custodian locates it, QA and Engineering check its origin and meaning, and Operations receives the summary (W02-S03). Staff would absorb it alongside regular duties, and retrieval already carries a measured cost of about ten staff minutes per request, with four of six requests needing follow-up to identify a custodian or source link (W02-S02). Availability needs confirming by Nia Voss for QA, Elias Chen for Engineering, and the custodians who hold the records, with Mara Ilyan confirming Operations can absorb the summary work. Capacity and access limits still need checking against W02-S04 before this is settled."
+    },
+    {
+      "id": "resources",
+      "title": "Cost and resource feasibility",
+      "value": "The base estimate is 48 staff hours at $2,820: analyst 24 hours at $55, engineering 12 at $75, QA 8 at $45, and Operations 4 at $60 (W02-S05). That sits $180 below the sponsor's $3,000 envelope, a margin of about six percent. The planning range of 40 to 60 hours, priced at the same staff mix and a blended $58.75 per hour, gives $2,350 to $3,525, so the upper end is $525 above the envelope (W02-S05, W02-S01). The figures are a planning estimate, not a supplier quote or a guaranteed cost, and they exclude any equipment purchase, software license and overtime allowance. Because those exclusions are uncosted, even the base has little protection: a single overtime block or license fee could consume the $180 margin. The proposal fits the envelope only at or near its base case."
+    },
+    {
+      "id": "schedule",
+      "title": "Schedule feasibility",
+      "value": "The plan plans eight elapsed business days against the sponsor's ten-day limit, leaving two business days of headroom, and that headroom holds only if the access and staffing assumptions hold (W02-S05, W02-S04). The 48 staff hours are effort, not elapsed time: analyst 24 hours across days 1 to 8, engineering 12 hours no earlier than day 4, QA 8 hours during days 5 to 7, and Operations 4 hours on days 1 and 8. The work is sequenced, so the eight days depend on read-only exports arriving by day 3 and on the tasks overlapping as planned. Export access has been requested but not confirmed, and staffing hours are provisional pending confirmation after authorization (W02-S04). If exports arrive more than about two days late, the sequence pushes past the ten-day limit, which under W02-S01 means the proposal must be revised or returned to the sponsor."
+    },
+    {
+      "id": "constraints",
+      "title": "Known constraints",
+      "value": "Budget: the sponsor's planning envelope is up to $3,000 of internal staff time. It is a limit for evaluating this proposal, not approved funding, and a proposal outside it must be revised or returned to the sponsor (W02-S01).\n\nSchedule: ten business days is the sponsor's limit; the proposal plans eight elapsed business days using 48 staff hours, with engineering unable to start before day 4 and QA scheduled for days 5 to 7 (W02-S01, W02-S04).\n\nAccess: the review is limited to read-only record exports and existing documentation tools. That access has been requested and not confirmed, and if it is denied the work must be revised or deferred (W02-S04).\n\nSafety and records: all work stays outside the safety glass, original records are preserved, read-only copies are used, and missing access is recorded. Nothing here authorizes operating equipment, restarting MR-17, or changing software or schedules (W02-S03, W02-S04).\n\nThese are current limits. Possible future events, such as late exports or a QA shift reassignment, are recorded separately as risks; neither has occurred (W02-S04)."
+    },
+    {
+      "id": "risks",
+      "title": "Risks and assumptions",
+      "value": "Assumption: read-only record exports arrive by day 3. Possible effect: Engineering cannot begin on day 4, and the eight-day plan pushes past the ten-day limit. Elias Chen should confirm the export approval date before authorization, and the record states that if access is denied the work must be revised or deferred (W02-S04).\n\nAssumption: the provisional staff hours will be available alongside normal duties. Possible effect: a QA shift reassignment could remove the days 5 to 7 QA window and delay the checklist deliverable. Nia Voss should confirm the QA window and the custodians' availability; Mara Ilyan should confirm the Operations hours on days 1 and 8.\n\nNeither late exports nor a shift reassignment has occurred in this packet, so both are risks rather than established delays (W02-S04). No savings estimate exists for the review, so none is assumed (W02-S02)."
+    },
+    {
+      "id": "success",
+      "title": "Success measures and evidence",
+      "value": "Asked whether the review would save money, Nia Voss said no savings can be claimed from these records because future savings have not been measured (W02-S02). She advised keeping the measured baseline, proposing a sensible way to check improvement, and telling the sponsor what still needs measuring. Her sixty staff minutes are a retrieval baseline for one cell and cannot be projected into a company-wide loss."
+    },
+    {
+      "id": "recommendation",
+      "title": "Recommendation",
+      "value": "revise"
+    },
+    {
+      "id": "rationale",
+      "title": "Rationale and conditions",
+      "value": "Two records decided my judgment. W02-S02 established the need with measured evidence: of six retrieval requests during the initial assessment, only two returned both an identified custodian and a clear link to the original source, and four required follow-up. That is the traceability gap the proposed review is aimed at, and it exists whether or not the robot's technical cause is ever established. W02-S05 is what stopped me short of a plain yes: the base estimate is $2,820, only $180 under the sponsor's $3,000 envelope, while the planning range reaches $3,525, which is $525 above it, and the estimate excludes equipment purchases, software licenses and overtime. Under W02-S01, a proposal outside the envelope must be revised or returned to the sponsor, so the proposal as written cannot simply be approved.\n\nThe third factor was W02-S04: read-only export access has been requested but not confirmed, and the staffing hours are provisional. The eight-day plan holds two business days of headroom against the ten-day limit, and only if exports arrive by day 3 and Engineering starts on day 4 as planned. The work therefore fits its limits only at the base case with every assumption holding, which is the optimistic number Mara Ilyan asked me not to rely on.\n\nConditions I recommend attaching to any authorization:\n1. Cap the authorization at 48 staff hours and $2,820. Work beyond the cap returns to the sponsor for a fresh decision.\n2. Confirm read-only export access before work starts, with a"
+    },
+    {
+      "id": "nextStep",
+      "title": "Next authorization or information step",
+      "value": "Before the sponsor decides, three pieces of information should be obtained.\n\nElias Chen, Robotics Systems Engineer, should confirm whether read-only export access has been granted and on what date, since W02-S04 states that if access is denied the work must be revised or deferred. This is the single item that most affects whether the eight-day plan is realistic.\n\nMara Ilyan, Production Operations Manager, should have the excluded costs priced or ruled out in writing: equipment, software licenses and overtime, none of which appear in the $2,820 base (W02-S05). She should also confirm the provisional staff hours with QA, Engineering and Operations, since those hours require confirmation after authorization (W02-S04).\n\nNia Voss, Night QA Supervisor, should retain the six-request retrieval baseline and agree with the sponsor on the target and collection method for any later benefit measurement, as W02-S05 requires that the sponsor agree on both before any improvement is claimed.\n\nThe next decision belongs to the sponsor. Mara Ilyan carries this recommendation forward, and the sponsor decides whether to authorize the capped review, at 48 staff hours and $2,820, subject to confirmed export access and confirmed"
+    }
+  ],
+  "sources": [
+    {
+      "id": "W02-S01",
+      "title": "Request for a bounded review",
+      "locator": "Week 2 decision packet · W02-S01"
+    },
+    {
+      "id": "W02-S02",
+      "title": "Evidence-retrieval workload",
+      "locator": "Week 2 decision packet · W02-S02"
+    },
+    {
+      "id": "W02-S03",
+      "title": "Proposed scope and current workflow",
+      "locator": "Week 2 decision packet · W02-S03"
+    },
+    {
+      "id": "W02-S04",
+      "title": "Capacity, access and operating limits",
+      "locator": "Week 2 decision packet · W02-S04"
+    },
+    {
+      "id": "W02-S05",
+      "title": "Estimate and success-measure sheet",
+      "locator": "Week 2 decision packet · W02-S05"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "repository-check",
+      "filename": "Week02_Repository_Check.png",
+      "kind": "supporting-evidence",
+      "caption": "Required Week 2 repository screenshot; supply the actual file separately. This reference does not verify an upload.",
+      "sourceIds": []
+    }
+  ],
+  "relatedReportIds": []
+}
