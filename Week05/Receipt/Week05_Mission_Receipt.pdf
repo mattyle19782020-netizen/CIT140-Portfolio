@@ -1,0 +1,67 @@
+%PDF-1.4
+% CIT140 Week5 receipt
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R /Annots [7 0 R] >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 2281 >>
+stream
+1 1 1 rg 0 0 612 792 re f
+0.04 0.14 0.18 rg 0 676 612 116 re f
+0.82 0.58 0.36 rg 36 666 540 3 re f
+BT /F2 11 Tf 0.6 0.89 0.84 rg 1 0 0 1 36 755 Tm (CIT 140  /  WEEK 5) Tj ET
+BT /F2 25 Tf 1 1 1 rg 1 0 0 1 36 722 Tm (Mission Receipt) Tj ET
+BT /F1 12 Tf 0.89 0.93 0.92 rg 1 0 0 1 36 696 Tm (Current-process model  |  Cedar Junction) Tj ET
+BT /F2 9 Tf 0.28 0.38 0.39 rg 1 0 0 1 36 637 Tm (RECEIPT CODE) Tj ET
+BT /F1 14 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 619 Tm (CIT140-W05-24389889) Tj ET
+BT /F2 9 Tf 0.28 0.38 0.39 rg 1 0 0 1 36 591 Tm (PREPARED) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 573 Tm (2026-10-14T05:03:45.267Z) Tj ET
+BT /F2 9 Tf 0.28 0.38 0.39 rg 1 0 0 1 36 545 Tm (PRACTICE QUIZ) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 527 Tm (4 of 4 questions answered; explanations reviewed.) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 513 Tm (Completed: 2026-10-14T04:38:56.625Z) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 499 Tm (Participation recorded; no passing score is required.) Tj ET
+BT /F2 9 Tf 0.28 0.38 0.39 rg 1 0 0 1 36 471 Tm (GITHUB REPOSITORY) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 453 Tm (https://github.com/mattyle19782020-netizen/CIT140-Portfolio) Tj ET
+BT /F2 9 Tf 0.28 0.38 0.39 rg 1 0 0 1 36 425 Tm (WEEK05 PORTFOLIO FILES) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 407 Tm (Artifact/Le_Matthew_CIT140_Week05_As_Is_Process_Model.drawio) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 393 Tm (Artifact/Le_Matthew_CIT140_Week05_As_Is_Process_Model.pdf) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 379 Tm (Evidence/Week05_Discord_Post.png or .jpg) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 365 Tm (Receipt/Week05_Mission_Receipt.pdf) Tj ET
+BT /F2 9 Tf 0.28 0.38 0.39 rg 1 0 0 1 36 337 Tm (SHARING ROUTE) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 319 Tm (Discord post screenshot) Tj ET
+0.75 0.83 0.81 RG 0.5 w 36 83 m 576 83 l S
+BT /F1 9 Tf 0.28 0.38 0.39 rg 1 0 0 1 36 63 Tm (Save this PDF in Week05/Receipt, then commit and push it to GitHub.) Tj ET
+BT /F1 9 Tf 0.28 0.38 0.39 rg 1 0 0 1 36 48 Tm (Submit only the repository URL in Canvas. Canvas records the official grade.) Tj ET
+BT /F1 9 Tf 0.28 0.38 0.39 rg 1 0 0 1 36 33 Tm (This receipt records browser quiz activity and learner file confirmations.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Annot /Subtype /Link /Rect [36 439 576 465] /Border [0 0 0] /A << /S /URI /URI (https://github.com/mattyle19782020-netizen/CIT140-Portfolio) >> >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000032 00000 n 
+0000000081 00000 n 
+0000000138 00000 n 
+0000000290 00000 n 
+0000000360 00000 n 
+0000000435 00000 n 
+0000002768 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+2940
+%%EOF
