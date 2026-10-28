@@ -1,0 +1,65 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 2587 >>
+stream
+1 1 1 rg 0 0 612 792 re f
+0.04 0.14 0.18 rg 0 686 612 106 re f
+0.82 0.64 0.38 rg 36 675 540 3 re f
+BT /F2 11 Tf 0.65 0.9 0.85 rg 1 0 0 1 36 758 Tm (CIT 140 / WEEK 7) Tj ET
+BT /F2 25 Tf 1 1 1 rg 1 0 0 1 36 725 Tm (Mission Receipt) Tj ET
+BT /F1 12 Tf 1 1 1 rg 1 0 0 1 36 701 Tm (Data-Quality Report | Meridian Forge) Tj ET
+BT /F2 9 Tf 0.3 0.4 0.43 rg 1 0 0 1 36 649 Tm (MISSION CODE) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 631 Tm (CIT140-W07-D00D37D999543FA9) Tj ET
+BT /F2 9 Tf 0.3 0.4 0.43 rg 1 0 0 1 36 603 Tm (PREPARED) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 585 Tm (2026-10-28T07:26:32.721Z) Tj ET
+BT /F2 9 Tf 0.3 0.4 0.43 rg 1 0 0 1 36 557 Tm (GITHUB REPOSITORY) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 539 Tm (https://github.com/mattyle19782020-netizen/CIT140-Portfolio) Tj ET
+BT /F2 9 Tf 0.3 0.4 0.43 rg 1 0 0 1 36 511 Tm (ASSIGNMENT VERSION) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 493 Tm (2026-10-25.1 | W07-S01-S03 | Q01-Q05) Tj ET
+BT /F2 9 Tf 0.3 0.4 0.43 rg 1 0 0 1 36 465 Tm (REQUIREMENTS REVIEWED) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 447 Tm (R1, R2, R3, R4, R5) Tj ET
+BT /F2 9 Tf 0.3 0.4 0.43 rg 1 0 0 1 36 419 Tm (LEARNER-CONFIRMED FILES) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 401 Tm (Week07/Artifact/Le_Matthew_CIT140_Week07.xlsx) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 387 Tm (Week07/Artifact/Le_Matthew_CIT140_Week07.pdf) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 373 Tm (Week07/Artifact/Query_Applied_Steps.png \(or .jpg\)) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 359 Tm (Week07/Receipt/Week07_Mission_Receipt.pdf) Tj ET
+BT /F2 9 Tf 0.3 0.4 0.43 rg 1 0 0 1 36 331 Tm (CONFIRMATIONS) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 313 Tm (Final workbook preserves Raw and query; Report responses completed.) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 299 Tm (Both PDF pages and query screenshot reviewed; GitHub access checked.) Tj ET
+BT /F2 9 Tf 0.3 0.4 0.43 rg 1 0 0 1 36 271 Tm (NEXT ACTION) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 253 Tm (Save this receipt, commit and push again. Submit the same GitHub) Tj ET
+BT /F1 10 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 239 Tm (repository home URL in the actual Week 7 Canvas assignment.) Tj ET
+BT /F1 9 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 57 Tm (This receipt records acknowledgments and learner confirmations.) Tj ET
+BT /F1 9 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 42 Tm (It does not establish understanding, file accuracy or a grade.) Tj ET
+BT /F1 9 Tf 0.08 0.17 0.19 rg 1 0 0 1 36 27 Tm (Canvas keeps the official submission, dates and grade.) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3035
+%%EOF
